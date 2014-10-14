@@ -1,7 +1,8 @@
 Automatic Image / Photo Viewer
 ===
 
-Created [Luke Brown](mailto:me@luke.sx) free for adaptation.
+Created by [Luke Brown](mailto:me@luke.sx), free for adaptation.
+Photos are also taken by myself.
 All I ask if you found this useful please star my repo.
 
 
